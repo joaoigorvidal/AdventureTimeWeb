@@ -25,31 +25,7 @@ img{
     flex-wrap: wrap;
 }
 
-.jake-profile{
-    border-radius: 50px;
-    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
-    max-height: 600px;
-    max-width: 600px;
-}
-.finn-profile{
-    border-radius: 50px;
-    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
-    max-height: 600px;
-    max-width: 600px;
-}
-.IceKing-profile{
-    border-radius: 50px;
-    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
-    max-height: 600px;
-    max-width: 600px;
-}
-.marceline-profile{
-    border-radius: 50px;
-    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
-    max-height: 600px;
-    max-width: 600px;
-}
-.bubblegum-profile{
+.image-border{
     border-radius: 50px;
     box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
     max-height: 600px;
