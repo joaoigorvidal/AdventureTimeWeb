@@ -1,10 +1,12 @@
 *{
     font-family: poppins;
-    color: black;
+    color: white;
     margin: 5px;
     padding: 10px;
 }
 
 header{
     background-color: black;
+    border: solid black 2px;
+    border-radius: 10px;
 }
