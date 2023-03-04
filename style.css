@@ -9,6 +9,7 @@ header{
     background-color: black;
     border: solid black 2px;
     border-radius: 10px;
+    text-align: center;
 }
 
 a{
@@ -43,3 +44,15 @@ img{
     justify-content: flex-end;
 }
 
+.music-section{
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+}
+
+.music-container{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    flex-wrap: wrap;
+}
