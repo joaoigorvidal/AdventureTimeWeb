@@ -1,0 +1,44 @@
+*{
+    font-family: poppins;
+    margin: 5px;
+    padding: 10px;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.bubblegum_profile_wiki{
+    box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.473);
+    border: solid 2px black;
+    border-radius: 50px;
+    max-width: 400px;
+    min-width: auto;
+    min-height: auto;
+    max-height: auto;
+}
+
+.container_wiki{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bubblegum_image img{
+    border-radius: 50px;
+    max-width: 300px;
+}
+
+/* biography and paragraph */
+
+.bubblegum_biography{
+    border: 2px solid black;
+    border-radius: 50px;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.473);
+    min-height: auto;
+    max-height: auto;
+    max-width: auto;
+}
