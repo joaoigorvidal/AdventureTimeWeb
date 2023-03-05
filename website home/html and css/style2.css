@@ -32,6 +32,10 @@ img{
     max-width: 600px;
     text-transform: capitalize;
 }
+.image-border:hover{
+    border: 5px solid black;
+}
+
 .image-profile{
     color: black;
     margin: 20px;

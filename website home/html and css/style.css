@@ -10,10 +10,10 @@ header{
     border: solid black 2px;
     border-radius: 10px;
     text-transform: uppercase;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 23px;
+    margin-right: 23px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 header nav{
@@ -25,14 +25,13 @@ header nav a{
     color: white;
     padding: 0 10px;
 }
-
+header img{
+    max-width: 200px;
+}
 main a{
     text-decoration: none;
     list-style: none;
     color: black;
-}
-header img{
-    max-width: 130px;
 }
 main img{
     border-radius: 50px;
